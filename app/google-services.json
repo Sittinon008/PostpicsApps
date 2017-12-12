@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "319914378738",
+    "firebase_url": "https://postapp-fbe3d.firebaseio.com",
+    "project_id": "postapp-fbe3d",
+    "storage_bucket": "postapp-fbe3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319914378738:android:7b433a4e00bbd329",
+        "android_client_info": {
+          "package_name": "com.example.marryme.postapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319914378738-htt9l5gs7fji9fphsa0cek40l6itsqa6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.marryme.postapp",
+            "certificate_hash": "7b1ff93adcf75d324d88c48ca03f545877ea1f7e"
+          }
+        },
+        {
+          "client_id": "319914378738-n0gscg6ich9r7a89dkojjighqrfgt50t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtRMVVM27CV5vT6VWdah6iMUGeuxgvj9A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319914378738-n0gscg6ich9r7a89dkojjighqrfgt50t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
